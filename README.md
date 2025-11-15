@@ -3,7 +3,8 @@
 This repository implements a reproducible version of **DEANet++** from the paper:
 
 > **"A Joint Network for Low-Light Image Enhancement Based on Retinex"  
-> Yonglong Jiang et al., Cognitive Computation (2024)**  
+> Yonglong Jiang et al., Cognitive Computation (2024)**
+> LINK-https://www.researchgate.net/publication/384072260_A_Joint_Network_for_Low-Light_Image_Enhancement_Based_on_Retinex
 
 
 ---
